@@ -7,6 +7,7 @@ To learn more about this project check ([Audio-lecture helper.pdf](https://githu
 ## Team
 
 Marin Gennadiy HSE AMI 3rd year ([github](https://github.com/gennadiymarin))
+
 Tiazhova Natalia HSE AMI 3rd year ([github](https://github.com/ntyazh))
 
 ## About
