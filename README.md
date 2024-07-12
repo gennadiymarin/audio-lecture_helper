@@ -1,4 +1,4 @@
-# Audio-lecture LLM with RAG
+# Audio-lecture helper (LLM with RAG)
 
 This project was created as a final task for [summer school FCS and VK education ](https://cs.hse.ru/summerschool-vk/)  and took the first place in the category of technical component.
 
