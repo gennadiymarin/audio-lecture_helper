@@ -2,7 +2,7 @@
 
 This project was created as a final task for [summer school FCS and VK education ](https://cs.hse.ru/summerschool-vk/)  and took the first place in the category of technical component.
 
-To learn more about this project check ([Audio-lecture helper.pdf](https://github.com/gennadiymarin/hse-vk_llm/blob/main/Audio-lecture%20helper.pdf))
+To learn more about this project check [Audio-lecture helper.pdf](https://github.com/gennadiymarin/hse-vk_llm/blob/main/Audio-lecture%20helper.pdf)
 
 ## Team
 
