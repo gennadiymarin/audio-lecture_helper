@@ -27,7 +27,7 @@ Tiazhova Natalia HSE AMI 3rd year ([github](https://github.com/ntyazh))
 Example with lecture audio file:
 <p align="center">
 <img src="https://github.com/gennadiymarin/hse-vk_llm/blob/main/short_audio/1.png" alt="drawing" width="450"/> 
-<img src="https://github.com/gennadiymarin/hse-vk_llm/blob/main/short_audio/2.png" alt="drawing" width="200"/>
+<img src="https://github.com/gennadiymarin/hse-vk_llm/blob/main/short_audio/2.png" alt="drawing" width="450"/>
 </p>
 
 To check created summary check files in short_audio folder. Additionally, was conducted an experiment with a 90-minute audio file (the duration of the usual lecture), those results check in folder long_audio summary_short.pdf, summary_tuned.pdf for summary results.
