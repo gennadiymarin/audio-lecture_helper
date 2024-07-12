@@ -13,12 +13,12 @@ Tiazhova Natalia HSE AMI 3rd year ([github](https://github.com/ntyazh))
 
 **Purpose:** to provide  an  abstract  or  a  shorter  version of the  input  audio file,  as  well as to provide a functional  answer  to  questions  about  this  input  file  using the built-in database
 
-**Tasks:** 
-●  Transcribing an audio file 
-●  Summarizing  transcription  and  searching for answers  based  on  it  
-●  Creating an internal  database 
-●  Testing the results obtained  
-●  Development of telegram  bots  for visualization 
+**Tasks:**
+-  Transcribing an audio file 
+-   Summarizing  transcription  and  searching for answers  based  on  it  
+-   Creating an internal  database 
+-   Testing the results obtained  
+-   Development of telegram  bots  for visualization 
 
 **Relevance:** the developed  neural  network  can  significantly  simplify  students' lives by saving  time  on  writing  lecture notes and  answering  the  remaining  questions  on the topic
 
