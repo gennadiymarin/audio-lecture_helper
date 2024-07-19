@@ -2,6 +2,10 @@
 
 This project was created as a final task for [summer school FCS and VK education ](https://www.hse.ru/org/hse/120026365/news/943030488.html)  and took the first place in the category of technical component.
 
+<p align="center">
+<img src="https://github.com/gennadiymarin/audio-lecture_helper/blob/main/certificate.png" alt="drawing" width="450"/> 
+</p>
+
 To learn more about this project check [Audio-lecture helper.pdf](https://github.com/gennadiymarin/hse-vk_llm/blob/main/Audio-lecture%20helper.pdf)
 
 ## Team
