@@ -35,6 +35,6 @@ Example with lecture audio file:
 <img src="https://github.com/gennadiymarin/hse-vk_llm/blob/main/short_audio/2.png" alt="drawing" width="450"/>
 </p>
 
-To view summary check files in short_audio folder. 
+To view summary check files those files [short_summary.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/short_audio/short_summary.pdf) and [summary.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/short_audio/summary.pdf). 
 
 Additionally, was conducted an experiment with a 90-minute audio file (the duration of the usual lecture), those results check [summary_short.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_short.txt), [summary_tuned.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_tuned.pdf) for summary results.
