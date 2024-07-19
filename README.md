@@ -37,4 +37,4 @@ Example with lecture audio file:
 
 To view summary check files those files [short_summary.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/short_audio/short_summary.pdf) and [summary.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/short_audio/summary.pdf). 
 
-Additionally, was conducted an experiment with a 90-minute audio file (the duration of the usual lecture), those results check [summary_short.txt](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_short.txt), [summary_tuned.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_tuned.pdf) for summary results.
+Additionally, was conducted an experiment with a 90-minute audio file (duration of the usual lecture), those results check [summary_short.txt](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_short.txt), [summary_tuned.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_tuned.pdf) for summary results.
