@@ -37,4 +37,4 @@ Example with lecture audio file:
 
 To view summary check files in short_audio folder. 
 
-Additionally, was conducted an experiment with a 90-minute audio file (the duration of the usual lecture), those results check in folder long_audio summary_short.pdf, summary_tuned.pdf for summary results.
+Additionally, was conducted an experiment with a 90-minute audio file (the duration of the usual lecture), those results check [summary_short.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_short.txt), [summary_tuned.pdf](https://github.com/gennadiymarin/audio-lecture_helper/blob/main/long_audio/summary_tuned.pdf) for summary results.
